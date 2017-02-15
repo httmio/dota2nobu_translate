@@ -1,4 +1,4 @@
-# dota2信長翻譯開源專案
+# dota2信長翻譯專案
 ## 有興趣幫忙的人，請到我們FB聯絡小編
 - https://www.facebook.com/Dota2.Nobu/
 ## 這邊的翻譯會同步到官網
